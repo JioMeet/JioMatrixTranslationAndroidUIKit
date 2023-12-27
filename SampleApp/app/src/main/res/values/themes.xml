@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JioAudioTranslationMVP" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF0F3CC9</item>
+        <item name="colorPrimaryDark">#FF0F3CC9</item>
+
+        <!-- Status bar color (for Android 5.0 Lollipop and above) -->
+        <item name="android:statusBarColor">#FF0F3CC9</item>
+    </style>
+</resources>
